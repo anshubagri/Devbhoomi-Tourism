@@ -52,14 +52,10 @@ If you would like to contribute to my projects, please fork this repository and 
 You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
 
 
-## Contact 📞
-
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/shaswat-gusain-2924a324a),[Email](shaswatgusain1@gmail.com)
-
 
 ### Copyright
 
-All of my projects are licensed under the MIT License. Copyright &copy; 2023 Shaswat Gusain.
+All of my projects are licensed under the MIT License. Copyright &copy; 2025 Anshu Singh Bagri.
 
 
 
